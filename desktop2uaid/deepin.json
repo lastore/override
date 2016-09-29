@@ -1,0 +1,5 @@
+{
+	"/usr/local/share/applications/NoMachine-base.desktop" : "nomachine",
+	"/usr/local/share/applications/NoMachine-status.desktop" : "nomachine",
+	"/usr/local/share/applications/dassault-systemes_draftsight.desktop" : "draftsight"	
+}
