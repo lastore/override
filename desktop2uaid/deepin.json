@@ -4,5 +4,7 @@
 	"/usr/local/share/applications/dassault-systemes_draftsight.desktop" : "draftsight",
 	"/usr/local/share/applications/spotify.desktop" : "spotify-client",
 	"/usr/local/share/applications/google-earth.desktop": "google-earth-stable",
+	"/usr/local/share/applications/Cryptomator.desktop":"cryptomator",
+	"/usr/share/applications/fastoredis.desktop": "fastoredis",
 	"/usr/local/share/applications/maxthon.desktop":"maxthon-browser-stable"
 }
